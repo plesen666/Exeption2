@@ -1,6 +1,4 @@
 public class Main {
-
-
     public static void main(String[] args) {
         String login = "1234567890123456789_";
         String password = "123456";
